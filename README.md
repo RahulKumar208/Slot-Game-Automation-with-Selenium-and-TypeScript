@@ -18,7 +18,7 @@ Before running the script, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/slot-game-automation.git
+   git clone https://github.com/RahulKumar208/Slot-Game-Automation-with-Selenium-and-TypeScript.git
    cd slot-game-automation
 
 2. **Install the dependencies**
