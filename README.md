@@ -49,20 +49,35 @@ This command will execute the slotAutomation.ts script using ts-node, which will
 - The script logs the number of different pixels detected between the screenshots, indicating whether the spin was successful.
 
 ## Results
+
 When the script is executed successfully, you should see output similar to the following:
+
 ---bash 
+
 Navigating to FreeSlots.com...
+
 Waiting for slot game link...
+
 Clicking slot game link...
+
 Waiting for game to load...
+
 Screenshot saved: F:\just slot\src\initial.png
+
 Waiting for spin button...
+
 Clicking spin button...
+
 Waiting for spin result...
+
 Screenshot saved: F:\just slot\src\final.png
+
 Comparing screenshots...
+
 Number of different pixels: <number>
+
 Spin successful, results have changed.
+
 Browser closed.
 
    
